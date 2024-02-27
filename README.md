@@ -105,7 +105,7 @@
       </div>
     </aside>
     <footer id="colophon" role="contentinfo">
-      <h6>&copy; 2024 Your Name</h6>
+      <h6>&copy; 2024 Daniel Lynnch</h6>
     </footer>
   </main>
 </body>
