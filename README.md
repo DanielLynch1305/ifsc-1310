@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
+
 <!DOCTYPE html>
-=======
-<!-- <!DOCTYPE html>
->>>>>>> Stashed changes
 <html lang="en">
 <head>
   <title>Web Technologies - CSS Demo</title>
@@ -41,11 +38,8 @@
         dui euismod sed. In efficitur felis risus, at tempor risus aliquam vel.</p>
     </section>
     <section id="blog" class="container">
-<<<<<<< Updated upstream
       <h2>Recent Posts</h2>
-=======
-      <!--<h2>Recent Posts</h2>-->
->>>>>>> Stashed changes
+
       <article class="post">
         <figure>
           <img src="https://via.placeholder.com/300x200" alt="Placeholder">
@@ -92,8 +86,7 @@
         <footer class="post-meta"> Posted by <a href="#">Post Author</a></footer>
       </article>
     </section>
-<<<<<<< Updated upstream
-=======
+
     <section id="practice" class="container">
   <h2>Properly Marking up an HTML Document</h2>
   <!--(Primary Content Heading)-->
@@ -208,14 +201,12 @@
     enim. Praesent velit felis, tempus malesuada, sagittis et, condimentum in, ante. Nulla lobortis, ligula sit amet laoreet sollicitudin, sem arcu lacinia tellus, id lobortis arcu urna tincidunt turpis. Proin adipiscing ultrices dui. Duis porttitor,
     libero ut eleifend pellentesque, risus turpis fermentum est, vel nonummy lorem est id nisl. Nulla facilisi. In sagittis tortor. Vestibulum dictum leo vitae augue. Morbi in odio sed nulla luctus sodales.</p>
 </section>
->>>>>>> Stashed changes
     <aside role="complementary">
       <div class="container">
         <article class="widget">
           <header>
             <h2>Sample Sidebar Item </h2>
           </header>
-<<<<<<< Updated upstream
           <p>Quisque justo erat, varius placerat fermentum vel, iaculis vel ligula. Phasellus et elit purus. Curabitur ipsum enim, scelerisque vitae condimentum ac, cursus eget quam. Nullam volutpat dui ut risus pulvinar at fringilla sem tristique. Nulla facilisi.
 =======
           <p>Quisque justo erat, varius placerat fermentum vel, iaculis vel ligula. Phasellus et elit purus. Curabitur ipsum enim, <a href="#">Read More &raquo;</a>scelerisque vitae condimentum ac, cursus eget quam. Nullam volutpat dui ut risus pulvinar at fringilla sem tristique. Nulla facilisi.
@@ -234,17 +225,9 @@
       </div>
     </aside>
     <footer id="colophon" role="contentinfo">
-<<<<<<< Updated upstream
       <h6>&copy; 2024 Daniel Lynnch</h6>
-=======
-      <h6>&copy; 2024 Daniel Lynch</h6>
->>>>>>> Stashed changes
     </footer>
   </main>
 </body>
 
-<<<<<<< Updated upstream
 </html>
-=======
-</html> -->
->>>>>>> Stashed changes
